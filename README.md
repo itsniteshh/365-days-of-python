@@ -10,39 +10,27 @@ My commitment to practicing Python **every single day for 365 days**. This repo 
 
 ## 📌 The Challenge
 
-**One rule:** write or study Python **every day for 365 days** — even 15 minutes counts.
+**One rule:** write or study Python **every day for 365 days** - even 15 minutes counts.
 
 Each day I log:
-- **What I studied** — a concept, a library, a problem
-- **What I built or practiced** — code, exercises, mini-projects
-- **What confused me** — so I can revisit it later
-- **A small win** — worth remembering
+- **What I studied** - a concept, a library, a problem
+- **What I built or practiced** - code, exercises, mini-projects
+- **What confused me** - so I can revisit it later
+- **A small win** - worth remembering
 
-**Start date:** 2026-09-03
-**Target finish:** 2027-09-03
+**Start date:** 2026-09-04
+**Target finish:** 2027-09-04
 
 ---
 
 ## 🎯 Goals for the 365 Days
 
 - [ ] Never miss a day (or make up a missed day immediately)
-- [ ] Master core concepts — data types, loops, functions, OOP
-- [ ] Learn key libraries — `requests`, `pandas`, `numpy`
+- [ ] Master core concepts - data types, loops, functions, OOP
+- [ ] Learn key libraries - `requests`, `pandas`, `numpy`
 - [ ] Build **at least 10 projects** from scratch
 - [ ] Solve coding problems regularly
 - [ ] Reach Day 365 🎉
-
----
-
-## 🗓️ Daily Log
-
-| Day | Date | Topic / Focus | What I Learned | Notes |
-|-----|------|---------------|----------------|-------|
-| 1 | 2026-09-03 | Setup & first steps | Created this journal, revised `print()` and variables | Day one — let's go! |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-
-<!-- Copy a row and fill it in each day. -->
 
 ---
 
@@ -52,7 +40,7 @@ Each day I log:
 - **Current streak:** 1 🔥
 - **Projects built:** 0 / 10
 
-_Update these numbers as you go — and bump the badge at the top!_
+_Update these numbers as you go - and bump the badge at the top!_
 
 ---
 
@@ -113,3 +101,6 @@ git push
 ---
 
 _Started on 2026-09-03 · 365 days · Consistency over intensity. 🚀_
+## 🗓️ Daily Log
+
+Day 1 - 4th Sept'26
