@@ -104,3 +104,5 @@ _Started on 2026-09-03 · 365 days · Consistency over intensity. 🚀_
 ## 🗓️ Daily Log
 
 Day 1 - 4th Sept'26
+-setup is done and we're ready to start
+-
