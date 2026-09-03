@@ -1,6 +1,6 @@
 # 🐍 365 Days of Python
 
-My commitment to practicing Python **every single day for 365 days**. This repo is my daily journal — a record of what I learn, build, and struggle with, one day at a time.
+My commitment to practicing Python **every single day for 365 days**. This repo is my daily journal - a record of what I learn, build, and struggle with, one day at a time.
 
 > _"Consistency over intensity. Show up every day."_
 
