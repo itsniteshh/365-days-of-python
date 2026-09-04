@@ -105,4 +105,4 @@ _Started on 2026-09-03 · 365 days · Consistency over intensity. 🚀_
 
 Day 1 - 4th Sept'26
 -setup is done and we're ready to start
--
+- Completed chapter 1 and 2 from python crash course book - Variables and Data types
